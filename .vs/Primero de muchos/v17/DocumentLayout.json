@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vladi\\OneDrive\\Escritorio\\Primero de muchos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7E8E3F-77B4-4885-8268-0B72B5928FB6}|Primero de muchos.csproj|c:\\users\\vladi\\onedrive\\escritorio\\primero de muchos\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7E8E3F-77B4-4885-8268-0B72B5928FB6}|Primero de muchos.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7E8E3F-77B4-4885-8268-0B72B5928FB6}|Primero de muchos.csproj|c:\\users\\vladi\\onedrive\\escritorio\\primero de muchos\\sprites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7E8E3F-77B4-4885-8268-0B72B5928FB6}|Primero de muchos.csproj|solutionrelative:sprites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7E8E3F-77B4-4885-8268-0B72B5928FB6}|Primero de muchos.csproj|C:\\Users\\vladi\\OneDrive\\Escritorio\\Primero de muchos\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DF7E8E3F-77B4-4885-8268-0B72B5928FB6}|Primero de muchos.csproj|solutionrelative:app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sprites.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\OneDrive\\Escritorio\\Primero de muchos\\Sprites.cs",
+              "RelativeDocumentMoniker": "Sprites.cs",
+              "ToolTip": "C:\\Users\\vladi\\OneDrive\\Escritorio\\Primero de muchos\\Sprites.cs",
+              "RelativeToolTip": "Sprites.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:34:38.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\vladi\\OneDrive\\Escritorio\\Primero de muchos\\app.manifest",
+              "RelativeDocumentMoniker": "app.manifest",
+              "ToolTip": "C:\\Users\\vladi\\OneDrive\\Escritorio\\Primero de muchos\\app.manifest",
+              "RelativeToolTip": "app.manifest",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-04-08T04:15:53.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\OneDrive\\Escritorio\\Primero de muchos\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Users\\vladi\\OneDrive\\Escritorio\\Primero de muchos\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAGMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:15:33.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
